@@ -8,3 +8,6 @@ public/
 
 # Sublime workspace
 bs.sublime-workspace
+
+# npm 
+*npm-debug.log

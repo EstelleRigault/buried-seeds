@@ -6,6 +6,7 @@ module.exports = {
   plugins: [
     "gatsby-plugin-catch-links",
     "gatsby-plugin-react-helmet",
+    "gatsby-plugin-glamorous",
     {
       resolve: `gatsby-plugin-typography`,
       options: {
